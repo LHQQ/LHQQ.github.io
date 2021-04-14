@@ -23,6 +23,8 @@
 以上这些，让我越发觉得时间的宝贵，时间一去不复返，人生不再来，珍惜现有的时光，活在当下，展望未来！
 
 反思自己现在的一些状况，打开手机过于频繁，容易受到快餐式娱乐的影响，容易沉迷。
+对于学习的主动性稍有不足，没有对知识的渴望。
+
 
 [editor on GitHub](https://github.com/LHQQ/liuxiaoxiao.github.io/edit/gh-pages/index.md) 
 
