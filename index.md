@@ -41,6 +41,9 @@
 1. 以后做某件事情，尝试把这个事件解决之后再去做其他事情。
 2. 休闲娱乐的时候设置一个时间限制。
 
+**抱怨并不会解决任何问题**，有的时候不妨换位思考，如果你是出题人，你会怎样出题。
+
+
 
 [editor on GitHub](https://github.com/LHQQ/liuxiaoxiao.github.io/edit/gh-pages/index.md) 
 
