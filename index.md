@@ -43,6 +43,8 @@
 
 **抱怨并不会解决任何问题**，有的时候不妨换位思考，如果你是出题人，你会怎样出题。
 
+### 4月17日
+**放下过去，珍惜现在，把握未来。**
 
 
 [editor on GitHub](https://github.com/LHQQ/liuxiaoxiao.github.io/edit/gh-pages/index.md) 
