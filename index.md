@@ -54,6 +54,8 @@
 ### 4月19日
 害，感觉自己还不够努力呀！！！
 
+感觉github上的模板用不来，先去csdn写日记试试。
+
 [editor on GitHub](https://github.com/LHQQ/liuxiaoxiao.github.io/edit/gh-pages/index.md) 
 
 ### Support or Contact
