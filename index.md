@@ -51,6 +51,9 @@
 ### 4月18日
 今天参加了网易和腾讯的笔试，个人感觉难度比pat简单，网易三道编程题，腾讯五道编程题（单个题目比网易简单一点，所以总体难度差不多）。但是我仍然做不到拿满分，加油，争取这个月把c++过完。
 
+### 4月19日
+害，感觉自己还不够努力呀！！！
+
 [editor on GitHub](https://github.com/LHQQ/liuxiaoxiao.github.io/edit/gh-pages/index.md) 
 
 ### Support or Contact
